@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Initial commit
-categories: Personal
+categories: [Personal, Tech]
 ---
 
 Hola amigos, este blog está hecho con un fork 📠 a [Jekyll repository](https://github.com/barryclark/jekyll-now). Como buen repositorio no podía empezar de otra forma que con un **Initial Commit**, donde haré la introducción de lo que voy a hablar aquí.
