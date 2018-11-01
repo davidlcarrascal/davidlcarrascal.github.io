@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: davidlcarrascal
   instagram:
-  linkedin: https://www.linkedin.com/in/davidlcarrascal/
+  linkedin: davidlcarrascal
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: davidlcarrascal
@@ -76,7 +76,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - 'jekyll-seo-tag'
+  - 'jekyll-seo-tag' # Seo tags
 
 plugins:
   - jekyll-seo-tag
