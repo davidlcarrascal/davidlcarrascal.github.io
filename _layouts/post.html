@@ -10,6 +10,10 @@ layout: default
   </div>
 
   <div class="date">
+    Categories: {{page.categories | capitalize | join: ', '}}
+  </div>
+
+  <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
