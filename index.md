@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
+
 
 ### Español 🇪🇸
 Persona techie 💻 que siempre está investigando sobre las mejores estrategias, arquitecturas y ejemplos de proyectos para aplicar al producto y resolver los retos que se le van planteando a los clientes. 
