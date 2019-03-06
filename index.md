@@ -9,13 +9,13 @@ Serial entrepreneur 🤓, co-founder of Beetripper, Taptaptravel, Portium and Fo
 
 ### Open Source 🌍
 
-- [**JDAvatarProgress**](https://github.com/JellyDevelopment/JDAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Objective-C**.
-- [**JDSwiftAvatarProgress**](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Swift**.
-- [**JDSlider**](https://github.com/JellyDevelopment/JDSlider) An iOS Slider written in **Swift**.
-- [**tree**](https://github.com/davidlcarrascal/tree) Tree 🌲command from scratch written in **Go**.
+- [JDAvatarProgress](https://github.com/JellyDevelopment/JDAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Objective-C**.
+- [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Swift**.
+- [JDSlider](https://github.com/JellyDevelopment/JDSlider) An iOS Slider written in **Swift**.
+- [tree](https://github.com/davidlcarrascal/tree) Tree 🌲command from scratch written in **Go**.
 
 ### Cool books 📖
 
-- [**Clean Architecture (Robert C Martin)**](https://amzn.to/2HdO76K)
-- [**Clean Code (Robert C. Martin)**](https://amzn.to/2C6wq5U)
-- [**Domain-Driven Design (Eric Evans)**](https://amzn.to/2VDeK99)
+- [Clean Architecture (Robert C Martin)](https://amzn.to/2HdO76K)
+- [Clean Code (Robert C. Martin)](https://amzn.to/2C6wq5U)
+- [Domain-Driven Design (Eric Evans)](https://amzn.to/2VDeK99)
