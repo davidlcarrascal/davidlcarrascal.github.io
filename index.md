@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Me 🙋‍♂️
+## Me
+
 Hi 👋 I'm David and I'm Senior Software Architect. I'm always looking for the best tech strategies and patterns. I have **6+ years** of experience creating projects. Now I am working as CTO in [Footters](https://footters.com). Code Maker 💻 [#Swiftlang](https://twitter.com/hashtag/Swiftlang?src=hash)  [#JS](https://twitter.com/hashtag/JS?src=hash)  [#Golang](https://twitter.com/hashtag/Golang?src=hash)
 
 ### Serial entrepreneur 🤓
