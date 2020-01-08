@@ -2,10 +2,20 @@
 layout: default
 ---
 
-## Me 🤓
+## Me 🙋‍♂️
 Hi 👋 I'm David and I'm Senior Software Architect. I'm always looking for the best tech strategies and patterns. I have **6+ years** of experience creating projects. Now I am working as CTO in [Footters](https://footters.com). Code Maker 💻 [#Swiftlang](https://twitter.com/hashtag/Swiftlang?src=hash)  [#JS](https://twitter.com/hashtag/JS?src=hash)  [#Golang](https://twitter.com/hashtag/Golang?src=hash)
 
-Serial entrepreneur 🤓, co-founder of Beetripper, Taptaptravel, Portium and Footters. I like to know techies projects and people to give them my opinion. Coffee lover ☕️, so you have it easy if you want to meet with me.
+## Serial entrepreneur 🤓
+
+- Co-founder of Beetripper.
+- Co-Founder of [Taptaptravel](https://www.producthunt.com/posts/taptaptravel).
+- Co-founder Portium.
+- Co-founder [Footters](https://www.footters.com).
+
+## Posts 📝
+
+- [Gestión de Errores en Go](https://blog.friendsofgo.tech/posts/gestion-de-errores-en-golang/)
+- [Kaizen](https://medium.com/@portiumventures/kaizen-pasito-a-pasito-9175e9539b)
 
 ### Open Source 🌍
 
