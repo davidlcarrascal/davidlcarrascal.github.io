@@ -19,7 +19,7 @@ Hi 👋 I'm David and I'm Senior Software Architect. I'm always looking for the 
 - [Kaizen](https://medium.com/@portiumventures/kaizen-pasito-a-pasito-9175e9539b)
 
 ### Videos 🎥
-- [Footters en Growlab](https://www.youtube.com/watch?v=Ke1G0osXSxE&feature=youtu.be&t=2524)
+- [Footters en Growlab](https://youtu.be/Ke1G0osXSxE?t=2524)
 
 ### Open Source 🌍
 
