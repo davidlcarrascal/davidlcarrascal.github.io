@@ -18,6 +18,9 @@ Hi 👋 I'm David and I'm Senior Software Architect. I'm always looking for the 
 - [Gestión de Errores en Go](https://blog.friendsofgo.tech/posts/gestion-de-errores-en-golang/)
 - [Kaizen](https://medium.com/@portiumventures/kaizen-pasito-a-pasito-9175e9539b)
 
+### Videos 🎥
+- [Footters en Growlab](https://www.youtube.com/watch?v=Ke1G0osXSxE&feature=youtu.be&t=2524)
+
 ### Open Source 🌍
 
 - [JDAvatarProgress](https://github.com/JellyDevelopment/JDAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Objective-C**.
