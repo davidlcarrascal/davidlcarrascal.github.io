@@ -2,34 +2,23 @@
 layout: default
 ---
 
-## Me
+# Hola 👋
 
-Hi 👋 I'm David and I'm Senior Software Architect. I'm always looking for the best tech strategies and patterns. I have **6+ years** of experience creating projects. Now I am working as CTO in [Footters](https://footters.com). Code Maker 💻 [#Swiftlang](https://twitter.com/hashtag/Swiftlang?src=hash)  [#JS](https://twitter.com/hashtag/JS?src=hash)  [#Golang](https://twitter.com/hashtag/Golang?src=hash)
+As a Software Engineer with experience in the industry, I have a passion for building innovative and scalable solutions that deliver value to users. My expertise includes full-stack development, with a focus on building B2C platforms and large-scale data processing systems.
 
-### Serial entrepreneur 🤓
+I have a track record of success in leading software development teams, having served as CTO of Footters and currently serving as Head of Software Development at Sevilla FC. Here, I have gained experience in working with Big Data and AI, further strengthening my technical skillset.
+
+I am always looking for new challenges and opportunities to grow as a software engineer.
+
+## Serial entrepreneur 🤓
 
 - Co-founder of Beetripper.
 - Co-Founder of [Taptaptravel](https://www.producthunt.com/posts/taptaptravel).
 - Co-founder Portium.
 - Co-founder [Footters](https://www.footters.com).
+- Co-founder [Vackstage](https://vackstage.com)
 
-### Posts 📝
+## Media 📝
 
-- [Gestión de Errores en Go](https://blog.friendsofgo.tech/posts/gestion-de-errores-en-golang/)
-- [Kaizen](https://medium.com/@portiumventures/kaizen-pasito-a-pasito-9175e9539b)
-
-### Videos 🎥
-- [Footters en Growlab](https://youtu.be/Ke1G0osXSxE?t=2524)
-
-### Open Source 🌍
-
-- [JDAvatarProgress](https://github.com/JellyDevelopment/JDAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Objective-C**.
-- [JDSwiftAvatarProgress](https://github.com/JellyDevelopment/JDSwiftAvatarProgress) Easy customizable avatar image asynchronously with progress bar animated written in **Swift**.
-- [JDSlider](https://github.com/JellyDevelopment/JDSlider) An iOS Slider written in **Swift**.
-- [tree](https://github.com/davidlcarrascal/tree) Tree 🌲command from scratch written in **Go**.
-
-### Cool books 📖
-
-- [Clean Architecture (Robert C Martin)](https://amzn.to/2HdO76K)
-- [Clean Code (Robert C. Martin)](https://amzn.to/2C6wq5U)
-- [Domain-Driven Design (Eric Evans)](https://amzn.to/2VDeK99)
+- [Podcast Tecnologería](https://tecnologeria.com/entrevistas/8x03/footters)
+- [Growlab](https://youtu.be/Ke1G0osXSxE?t=2524)
