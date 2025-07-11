@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -10,9 +11,24 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+      href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+    <!-- MailerLite Universal -->
+    <script>
+      (function (w, d, e, u, f, l, n) {
+        w[f] = w[f] || function () {
+          (w[f].q = w[f].q || [])
+            .push(arguments);
+        }, l = d.createElement(e), l.async = 1, l.src = u,
+          n = d.getElementsByTagName(e)[0], n.parentNode.insertBefore(l, n);
+      })
+        (window, document, 'script', 'https://assets.mailerlite.com/js/universal.js', 'ml');
+      ml('account', '1621240');
+    </script>
+    <!-- End MailerLite Universal -->
   </head>
 
   <body>
@@ -25,11 +41,6 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-
-          <!-- <nav>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
-            <a href="{{ site.baseurl }}/categories">Categories</a>
-          </nav> -->
         </header>
       </div>
     </div>
@@ -40,12 +51,18 @@
 
     <div class="wrapper-footer">
       <div class="container">
-        <footer class="footer">
+        <!-- <footer class="footer">
           {% include svg-icons.html %}
+        </footer> -->
+        <footer class="footer">
+          <a href="{{ site.baseurl }}/privacy">
+            Privacidad
+          </a>
         </footer>
       </div>
     </div>
 
     {% include analytics.html %}
   </body>
+
 </html>
